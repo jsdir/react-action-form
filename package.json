@@ -1,0 +1,31 @@
+{
+  "name": "react-action-form",
+  "version": "0.0.0",
+  "description": "react-simple-forms integration with Reflux",
+  "main": "index.coffee",
+  "dependencies": {},
+  "peerDependencies": {
+    "react-ladda": "^2.0.0",
+    "react": "^0.12.2",
+    "react-simple-forms": "^0.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdir/react-action-form.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "reflux"
+  ],
+  "author": "Jason Sommer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsdir/react-action-form/issues"
+  },
+  "homepage": "https://github.com/jsdir/react-action-form"
+}
